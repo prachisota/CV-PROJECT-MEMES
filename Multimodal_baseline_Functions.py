@@ -38,10 +38,10 @@ STOPWORDS = set(stopwords.words('english'))
 # In[3]:
 
 
-Training_path = "E:\\MSc DA\\Sem 2\\Project\\Code and Docmentation\\Final Dataset\\Split Dataset\\Training_meme_dataset.csv"
-Validation_path = "E:\\MSc DA\\Sem 2\\Project\\Code and Docmentation\\Final Dataset\\Split Dataset\\Validation_meme_dataset.csv"
-Testing_path = "E:\\MSc DA\\Sem 2\\Project\\Code and Docmentation\\Final Dataset\\Split Dataset\\Testing_meme_dataset.csv"
-img_dir = "E:\\MSc DA\\Sem 2\\Project\\Code and Docmentation\\Final Dataset\\Labelled Images"
+Training_path = "E:\\DA\\Sem 6\\Project\\Code and Docmentation\\Final Dataset\\Split Dataset\\Training_meme_dataset.csv"
+Validation_path = "E:\\DA\\Sem 6\\Project\\Code and Docmentation\\Final Dataset\\Split Dataset\\Validation_meme_dataset.csv"
+Testing_path = "E:\\DA\\Sem 6\\Project\\Code and Docmentation\\Final Dataset\\Split Dataset\\Testing_meme_dataset.csv"
+img_dir = "E:\\DA\\Sem 6\\Project\\Code and Docmentation\\Final Dataset\\Labelled Images"
 
 
 # In[4]:
